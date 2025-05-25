@@ -3,7 +3,7 @@
 import 'package:flutter/material.dart';
 import 'package:neutrip/core/theme/app_colors.dart';
 
-ThemeData futuristicTheme(BuildContext context) {
+ThemeData darkTheme(BuildContext context) {
   final base = ThemeData.dark();
 
   return base.copyWith(
